@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santhosh Santhanam</h1>
 <h3 align="center">Full Stack Developer with a Master's degree and 3+ years of experience in tech. Currently on the lookout for full-time opportunities.</h3>
 
-- 🔭 I’m currently working on frontend implementation of [YouTube clone](https://github.com/Santhosh-S14/youtube-clone) & a [Full stack salon appointment app](https://github.com/riyuc/armonia_new)
+- 🔭 I’m currently working on frontend implementation of [YouTube clone](https://github.com/Santhosh-S14/youtube-clone)
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Prisma ORM, Tailwind CSS**
 
